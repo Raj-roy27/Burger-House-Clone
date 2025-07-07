@@ -1,2 +1,3 @@
 # Burger-House-Clone
-This is my practice project for enhance my skills and it also responsive using HTML and CSS
+This is my practice project for enhance my skills and it also responsive using HTML and CSS.
+Author - Raj Roy 
